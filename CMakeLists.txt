@@ -3,7 +3,6 @@ cmake_minimum_required(VERSION 3.10)
 # Define the project and the language (C++)
 project(MatchingEngine CXX)
 
-# Enforce the C11 standard
 set(CMAKE_CXX_STANDARD 23)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
