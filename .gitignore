@@ -1,0 +1,9 @@
+build/
+*.o
+*.a
+*.so
+*.swp
+.vscode/
+compile_commands.json
+.DS_Store
+
